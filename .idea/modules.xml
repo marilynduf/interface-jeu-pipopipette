@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../IFT-1004_tp2_dufour_marilyn/.idea/IFT-1004_tp2_dufour_marilyn.iml" filepath="$PROJECT_DIR$/../IFT-1004_tp2_dufour_marilyn/.idea/IFT-1004_tp2_dufour_marilyn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Nouveau_TP3.iml" filepath="$PROJECT_DIR$/.idea/Nouveau_TP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../compte_de_banque/.idea/compte_de_banque.iml" filepath="$PROJECT_DIR$/../compte_de_banque/.idea/compte_de_banque.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/labo11/.idea/labo11.iml" filepath="$USER_HOME$/Downloads/labo11/.idea/labo11.iml" />
     </modules>
   </component>
 </project>
